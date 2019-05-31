@@ -2,8 +2,6 @@ import Component from './Component.js';
 import Header from './Header.js';
 import contacts from '../../data/data-list.js';
 import Table from './Table.js';
-import TableHead from './TableHead.js';
-import sortList from '../sort-list.js';
 
 class App extends Component {
 
